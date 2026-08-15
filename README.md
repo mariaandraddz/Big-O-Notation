@@ -19,5 +19,32 @@ O custo vai crescendo conforme o tamanho da entrada vai crescendo também, em al
 
 -----------------------------------
 ### O(1)
--
 
+| Input Size | Cost |
+| --- | --- |
+| 1 | 1 |
+| 100 | 1 |
+| 1000 | 1|
+| 10000 | 1 |
+
+O custo é o mesmo independemente do tamanho do input
+
+----------------------------
+### O(n²)
+
+| Input Size | Cost |
+| --- | --- |
+| 1 | 1 |
+| 10 | 100 |
+| 1000 | 1000000 |
+| 10000 | 100000000 |
+
+---------------------------------
+O(log n)
+
+| Input Size | Cost |
+| --- | --- |
+| 1 | 1 |
+| 10 | 1 |
+| 1000 | 3 |
+| 1000000 | 6 |
