@@ -1,6 +1,7 @@
 # Big-O-Notation
 <p>Representa o limite superior do custo de um algortimo</p>
-
+<p> A imagem abaixo demostra o funcionamento</p>
+<img src="https://media.licdn.com/dms/image/v2/D4E12AQEvsKZNftrL5w/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1734702748422?e=2147483647&v=beta&t=Mp0AfdcOaVE6TQlsFmj-CIw9i9C0hXvAWk61IYqeH9w" width="500">
 --------------------
 
 ### O(n) 
